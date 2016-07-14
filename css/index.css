@@ -1,0 +1,314 @@
+/*intro 开始*/
+.intro{
+	height: 160px;
+}
+.intro-contact{
+	height: 150px;
+	padding-top: 10px;
+}
+.contact-left{
+	width: 640px;
+	height: 135px;
+	float: left;
+}
+.title{
+	height: 35px;
+}
+h3{
+	float: left;
+	line-height: 35px;
+}
+.title-more{
+	float: right;
+    line-height: 30px;
+    width: 100px;
+    height: 30px;
+}
+.title-more a{
+	color: black;
+	font-size: 12px;
+	width: 100px;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    text-indent: 15px;
+	border: white 1px solid;
+    border-radius: 15px;
+}
+
+.title-more a:hover{
+	background-color: #EA3939;
+	color: white;
+    border: #EA3939;
+}
+.news{
+	float: left;
+    width: 280px;
+    height: 30px;
+    font-size: 12px;
+    line-height: 30px;
+    margin-left: 10px;
+    padding-left: 15px;
+    background: url('../img/home-bg1.png') no-repeat left center;
+}
+.news a:hover{
+	color: blue;
+}
+.contact-right{
+	width: 400px;
+	height: 137px;
+	float: right;
+}
+.right-list{
+	height: 90px;
+    width: 380px;
+    border: #333 1px dotted;
+}
+.right-list li{
+	width: 360px;
+	height: 30px;
+	line-height: 30px;
+	text-indent: 150px;
+	font-size: 12px;
+	background: url('../img/home-bg1.png') no-repeat left center;
+}
+/*intro 结束*/
+/*courses 开始*/
+.courses{
+	height: 470px;
+	background-color: #F1F1F1;
+}
+.courses-con{
+	height: 450px;
+}
+.con-title{
+	height: 146px;
+	color: #666;
+	text-align: center;
+}
+.con-title1{
+    font-size: 29px;
+    padding-top: 60px;
+    margin-bottom: 15px;
+}
+.con-title2{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+.con-list{
+	height: 209px;
+	padding-top: 50px;
+	padding-bottom: 16px;
+}
+.con-list a{
+	width: 219px;
+	height: 200px;	
+	float: left;
+}
+.con-list img{
+	width: 194px;
+	height: 175px;
+	padding-right: 20px;
+}
+.con-list span{
+	width: 194px;
+	height: 28px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #666;
+}
+.tit-more {
+	width: 100px;
+    height: 30px;
+    margin-left: 510px;
+}
+.tit-more a{
+	color: black;
+	font-size: 12px;
+	width: 100px;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    text-indent: 15px;
+}
+
+.tit-more a:hover{
+	background-color: #6c6;
+	color: white;
+    border: #6c6 1px solid;
+    border-radius: 15px;
+}
+/*courses 结束*/
+/*teach 开始*/
+.teach{
+	height: 329px;
+	background-color: #6AA84F;
+}
+.teach-con{
+	width: 525px;
+	margin: 0 auto;
+	color: white;
+}
+.teach-pic{
+	width: 200px;
+	height: 35px;
+	margin: 0 auto;
+	line-height: 35px;
+	text-indent: 20px;
+	padding-top: 25px;
+}
+.pic1{
+	background-color: white;
+	color: black;
+	width: 100px;
+	float: left;
+}
+.pic2{
+	background: #F1C232;
+	width: 100px;
+	float: left;
+}
+.teach-tit1{
+	width: 150px;
+    font-size: 32px;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+.teach-tit2{
+    font-size: 20px;
+    border-bottom: white 1px solid;
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-indent: 170px;
+}
+.teach-contact{
+	margin-top: 10px;
+	line-height: 25px;
+	font-size: 12px;
+}
+.teach-more{
+	width: 102px;
+	height: 50px;
+	margin: 0 auto;
+}
+.teach-more a{
+	width: 100px;
+    color: white;
+    height: 25px;
+    line-height: 25px;
+    margin: 0px auto;
+    display: inline-block;
+    text-indent: 10px;
+    margin-top: 15px;
+    border: #FFF 1px solid;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+.teach-more a:hover{
+    color: black;
+    background-color: white;
+    border-color: #F1C232;
+}
+/*teach 结束*/
+/*inner 开始*/
+.inner{
+	height: 394px;
+	background: #FEE157;
+    padding-top: 20px;
+}
+.inner-con{
+	height: 374px;
+	padding: 5px 0 5px 0;
+}
+.inner-list{
+	float: left;
+    width: 675px;
+    height: 269px;
+}
+.inner-list a:hover{
+	color: black;
+	background-color: white;
+	border: white 1px solid;
+    border-radius: 15px;
+}
+.inner-list .title{
+	width: 675px;
+}
+.inner-li{
+	width: 673px;
+	height: 212px;
+	border: #999 1px dotted;
+	margin-top: 20px;
+}
+.inner-li ul{
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+.inner-li li{
+	width: 635px;
+	height: 25px;
+	padding-top: 6px;
+	background: url('../img/index/li.png') no-repeat 5px; center;
+	border-bottom: #999 1px dotted;
+	text-indent: 20px;
+}
+.inner-li a{
+	color: #666;
+}
+.inner-li a:hover{
+	color: blue;
+	background: none;
+	border: none;
+}
+.inner-form{
+	width: 335px;
+	height: 359px;
+	float: right;
+}
+.form-tit{
+	height: 32px;
+	font-size: 18px;
+    text-align: center;
+    color: #666;
+    margin-top: 10px;
+}
+.inner-form form{
+	width: 333px;
+	height: 260px;
+	border: #999 1px dotted;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+}
+..inner-form span{
+	color: #ff0000;
+}
+.inner-form form p{
+	display: block;
+    text-align: center;
+    height: 30px;
+    font-size: 15px;
+    padding: 0px;
+    line-height: 30px;
+    color: #666;
+}
+.inner-form input{
+	width: 260px;
+    height: 27px;
+    line-height: 27px;
+    border: #CCC 1px dotted;
+}
+.inner-form .bt{
+	width: 100px;
+    height: 25px;
+    line-height: 20px;
+    border: none;
+    background: #666;
+    color: white;
+    margin-top: 30px;
+}
+/*inner 结束*/

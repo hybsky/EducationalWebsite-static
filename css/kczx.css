@@ -1,0 +1,154 @@
+/*inner 开始*/
+.inner{
+	height: 1189px;
+}
+.inner-con{
+	height: 1189px;
+}
+.inner-top{
+	height: 90px;
+}
+.inner-top ul{
+	width: 380px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+.inner-top li{
+	float: left;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    padding-top: 3px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    border: white 1px solid;
+    border-radius: 10px;
+}
+.inner-top li:hover{
+	color: white;
+	background-color: #6c6;
+    border: #6c6;
+}
+#bottom-ul1 li{
+	float: left;
+    text-align: center;
+    font-size: 16px;
+    padding: 10px 20px 40px 20px;
+    width: 220px;
+    display: inline;
+}
+#bottom-ul1 li img{
+	border: 6px solid #cccccc;
+    width: 100%;
+    height: 275px;
+}
+#bottom-ul1 li img:hover{
+	border-color: #FF9900;
+}
+.inner-bottom{
+	height: 1096px;
+    padding: 5px 0 0 0;
+}
+.inner-form{
+	width: 335px;
+	height: 359px;
+	float: left;
+}
+.form-tit{
+	height: 32px;
+	font-size: 18px;
+    text-align: center;
+    color: #666;
+    margin-top: 10px;
+}
+.inner-form form{
+	width: 333px;
+	height: 260px;
+	border: #999 1px dotted;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+}
+.inner-form span{
+	color: #ff0000;
+}
+.inner-form form p{
+	display: block;
+    text-align: center;
+    height: 30px;
+    font-size: 15px;
+    padding: 0px;
+    line-height: 30px;
+    color: #666;
+}
+.inner-form input{
+	width: 260px;
+    height: 27px;
+    line-height: 27px;
+    border: #CCC 1px dotted;
+}
+.inner-form .bt{
+	width: 100px;
+    height: 25px;
+    line-height: 20px;
+    border: none;
+    background: #666;
+    color: white;
+    margin-top: 30px;
+}
+.inner-form img{
+	width: 80px;
+	height: 33px;
+	margin-top: 5px;
+	margin-left: 3px;
+	position: relative;
+	top :8px;
+}
+.inner-list{
+	float: right;
+    width: 675px;
+    height: 269px;
+}
+.inner-list .title{
+	width: 675px;
+}
+.inner-list .title p{
+	height: 32px;
+    font-size: 18px;
+    text-align: center;
+    color: #666;
+    margin-top: 10px;
+}
+.inner-li{
+	width: 673px;
+	height: 280px;
+	border: #999 1px dotted;
+	margin-top: 10px;
+	font-size: 15px;
+}
+.inner-li ul{
+	width: 635px;
+	height: 170px;
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+.inner-li li{
+	width: 635px;
+	height: 28px;
+	padding-top: 6px;
+	background: url('../img/index/li.png') no-repeat 5px; center;
+	border-bottom: #999 1px dotted;
+	text-indent: 20px;
+}
+.inner-li a{
+	color: #666;
+}
+.inner-li a:hover{
+	color: blue;
+	background: none;
+	border: none;
+}
+/*inner 结束*/

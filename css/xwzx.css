@@ -1,0 +1,66 @@
+/*inner 开始*/
+.inner{
+	height: 426px;
+}
+.inner-con{
+	height: 426px;
+}
+.inner-top{
+	height: 90px;
+}
+.inner-top ul{
+	width: 380px;
+	height: 30px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+.inner-top li{
+	float: left;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    padding-top: 3px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    border: white 1px solid;
+    border-radius: 5px;
+}
+.inner-top li:hover{
+	color: white;
+	background-color: #6c6;
+    border: #6c6 1px solid;
+    border-radius: 5px;
+}
+.inner-bottom{
+	height: 336px;
+    padding: 5px 0 0 0;
+}
+.inner-li{
+	width: 1080px;
+	height: 306px;
+	font-size: 12px;
+}
+.inner-li li{
+	width: 1080px;
+	height: 28px;
+	padding-top: 6px;
+	background: url('../img/xwzx/li.gif') no-repeat 5px 20px;
+	border-bottom: #999 1px dotted;
+	text-indent: 20px;
+	line-height: 28px;
+}
+.inner-li a{
+	color: black;
+}
+.inner-li a:hover{
+	color: blue;
+	background: none;
+	border: none;
+}
+.inner-li span{
+	color: #666;
+	float: right;
+}
+/*inner 结束*/
